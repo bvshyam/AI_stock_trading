@@ -1,0 +1,11 @@
+pandas
+numpy
+sklearn
+html5lib
+alpaca-trade-api==0.46
+api
+ta==0.5.17
+tqdm==4.42.1
+stockstats
+matplotlib
+Pillow
