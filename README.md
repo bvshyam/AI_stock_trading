@@ -7,6 +7,10 @@ To follow along, please check the Medium article: [24x5 Stock Trading Agent to p
 
 
 ## Architecture
+
+<img src="assets/arch.png">
+
+
 1. Connect Alpaca brokerage account
 2. Get historical data using polygon API
 3. Train a simple AI model using AWS cloud
